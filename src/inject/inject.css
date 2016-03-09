@@ -1,0 +1,19 @@
+#window-size-helper-dev-liudas-eu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999999;
+    font-size: 14px;
+    padding: 2px 5px;
+    background: rgba(218,233,245,0.8);
+    font-family: "Open Sans", sans-serif;
+
+}
+.window-size-helper-dev-liudas-eu-hide {
+    display: none;
+    visibility: hidden;
+}
+.window-size-helper-dev-liudas-eu-show {
+    display: inline-block;
+    visibility: visible;
+}

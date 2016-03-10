@@ -10,12 +10,10 @@
     "128": "icons/icon128.png"
   },
   "default_locale": "en",
-  "background": {
-    "scripts": [
-      "src/bg/background.js"
-    ],
-    "persistent": false
-  },
+  "browser_action": {
+    // "default_icon": "icons/icon16.png",
+    "default_title": "Resize your window to see size in pixels"
+  },  
   "permissions": [
     "https://*/*",
     "http://*/*"

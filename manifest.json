@@ -1,6 +1,6 @@
 {
   "name": "Window Size Helper",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "manifest_version": 2,
   "description": "Adds removed window size label on top right corner when page is beeing resized",
   "homepage_url": "https://dev.liudas.eu/chrome",

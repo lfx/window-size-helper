@@ -11,7 +11,6 @@
   },
   "default_locale": "en",
   "browser_action": {
-    // "default_icon": "icons/icon16.png",
     "default_title": "Resize your window to see size in pixels"
   },  
   "permissions": [
